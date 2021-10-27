@@ -114,6 +114,45 @@
 
 
 
+2 D. MENGKONVERSI SUHU DARI CELCIUS KE FAHRENHEIAT
+
+- Pertama buat flowchart seperti dibawah ini
+
+![Annotation 2021-10-26 234857](https://user-images.githubusercontent.com/92988781/139015994-47badba8-dcde-414e-bfb2-deaa17cfcab4.png)
+
+
+- kemudian jalankan dan masukkan skala celcius
+- output fahrenheit
+
+![Annotation 2021-10-26 235010](https://user-images.githubusercontent.com/92988781/139016149-f91df76c-769e-4b38-a796-ff555590c532.png)
+
+
+- MARI KITA COBA DI VSCODE
+
+- Pertama buat source code seperti dibawah ini
+
+![Annotation 2021-10-26 235817](https://user-images.githubusercontent.com/92988781/139016274-d59eec43-5508-4066-a3fe-81680d10318d.png)
+
+
+- kemudian jalankan in terminal dan masukkan skala celcius
+- output fahrenheit
+
+![Annotation 2021-10-26 235848](https://user-images.githubusercontent.com/92988781/139016379-db1aa17e-221e-45c5-8913-882725e577c0.png)
+
+
+SELESAI
+
+
+
+TERIMA KASIH (MARI BELAJAR BERSAMA-SAMA)
+
+
+
+
+
+
+
+
 
 
 
