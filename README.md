@@ -85,6 +85,43 @@
 
 
 
+2 C. MENGKONVERSI SUHU KE CELCIUS KE REAMUR
+
+
+- Pertama, kita harus membuat flowchart seperti dibawah ini
+
+![Annotation 2021-10-26 233007](https://user-images.githubusercontent.com/92988781/139013382-6428665d-0ad8-408c-a267-65e793ae6a1c.png)
+
+
+- Kedua, jalankan kemudian masukkan skala celcius
+- output
+
+![Annotation 2021-10-26 233049](https://user-images.githubusercontent.com/92988781/139013624-81a43ece-5f36-4e8d-9956-86296b293b8c.png)
+
+
+
+- MARI KITA COBA DI VSCODE
+
+- Pertama kita buat source code seperti dibawah ini
+
+![Annotation 2021-10-26 233840](https://user-images.githubusercontent.com/92988781/139013801-ce4bfbed-cfdc-453f-838c-f3a62e6b7ebc.png)
+
+- lalu jalankan kemudian masukkan skala celcius
+- output
+
+![Annotation 2021-10-26 233918](https://user-images.githubusercontent.com/92988781/139013912-57f1febc-60c9-4e4c-85bd-681897c6550a.png)
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
