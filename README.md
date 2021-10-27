@@ -75,6 +75,16 @@
 
 - Pertama, buat program seperti dibawah ini (fahrenheit ke celcius)
 
+![Annotation 2021-10-26 232147](https://user-images.githubusercontent.com/92988781/139010988-8b269c0a-74c9-4dbd-b8f4-ab33878b3d38.png)
+
+
+- setelah itu jalankan program dan masukkan skala farenhit
+- output
+
+![Annotation 2021-10-26 232314](https://user-images.githubusercontent.com/92988781/139011108-907f3140-a14d-4eb3-b467-6748516132c8.png)
+
+
+
 
 
 
